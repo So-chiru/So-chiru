@@ -1,5 +1,3 @@
-Hello, I'm Sochiru and I enjoy making things that can give never-been experiences.
+I enjoy tackling new challenges and exploring novel approaches to software creation that can deliver unique experiences.
 
-🏠 : https://sochiru.pw - Homepage
-
-💳 : https://toss.me/sochiru - Donate
+[Bento &rarr;](https://bento.me/sochiru)  &nbsp;&nbsp;&nbsp;&nbsp; [Donate &rarr;](https://toss.me/sochiru)
