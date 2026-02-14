@@ -1,3 +1,3 @@
 I'm a software developer, designer seeking opportunities that offer unique and enriching experiences.
 
-[Bento &rarr;](https://bento.me/sochiru)  &nbsp;&nbsp;&nbsp;&nbsp;
+[Home &rarr;](https://sochiru.pw)  &nbsp;&nbsp;&nbsp;&nbsp;
